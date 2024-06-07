@@ -150,7 +150,7 @@ const detailsContainer = document.querySelector(".details-container");
 let titleHeading;
 let titleDescription;
 
-let api = "AIzaSyCf042WXYWrjQxunOAN9V5Cl_GHF7rvtMw";
+let api = "USE_YOUR_API_KEY;
 let playlistItems_http = "https://www.googleapis.com/youtube/v3/playlistItems?";
 let channel = "https://www.googleapis.com/youtube/v3/channels?";
 let currentIndex = 0;
